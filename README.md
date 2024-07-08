@@ -1,5 +1,5 @@
 # Assignment-9
-To start assignment 9, save the materials folder in this repository to your local PC to get started. There are 4 parts:
+To get started on start assignment 9, save the starter code for each part from the material folder in this repository to your local PC. There are 4 parts:
 - [Part 1](#part-1-test-and-modify-the-miles-per-gallon-application): Test and modify the Miles Per Gallon application
 - [Part 2](#part-2-create-a-simple-application): Create a simple application
 - [Part 3](#part-3-enhance-the-future-value-application): Enhance the Future Value application 
